@@ -29,3 +29,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+		Hello Paradigm shift, nice work yassine you mad genius
